@@ -1,0 +1,176 @@
+.S {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.S-r0 {
+    width: 69px;
+    height: 58px;
+    background-position: -3px -3px;
+}
+
+.S-r1 {
+    width: 56px;
+    height: 53px;
+    background-position: -78px -3px;
+}
+
+.S-r2 {
+    width: 54px;
+    height: 54px;
+    background-position: -140px -3px;
+}
+
+.S-r3 {
+    width: 65px;
+    height: 59px;
+    background-position: -200px -3px;
+}
+
+.S-r4 {
+    width: 60px;
+    height: 52px;
+    background-position: -3px -68px;
+}
+
+.S-r5 {
+    width: 63px;
+    height: 48px;
+    background-position: -69px -68px;
+}
+
+.S-r6 {
+    width: 47px;
+    height: 61px;
+    background-position: -138px -68px;
+}
+
+.S-r7 {
+    width: 60px;
+    height: 61px;
+    background-position: -191px -68px;
+}
+
+.S-r8 {
+    width: 63px;
+    height: 48px;
+    background-position: -3px -135px;
+}
+
+.S-rComunityEdition {
+    width: 14px;
+    height: 13px;
+    background-position: -259px -70px;
+}
+
+.S-rProcess {
+    width: 17px;
+    height: 16px;
+    background-position: -259px -93px;
+}
+
+.S-rSingUp {
+    width: 15px;
+    height: 14px;
+    background-position: -259px -119px;
+}
+
+.S-w0 {
+    width: 69px;
+    height: 58px;
+    background-position: -74px -137px;
+}
+
+.S-w1 {
+    width: 56px;
+    height: 53px;
+    background-position: -153px -137px;
+}
+
+.S-w2 {
+    width: 54px;
+    height: 54px;
+    background-position: -219px -143px;
+}
+
+.S-w3 {
+    width: 65px;
+    height: 59px;
+    background-position: -5px -207px;
+}
+
+.S-w4 {
+    width: 60px;
+    height: 52px;
+    background-position: -80px -207px;
+}
+
+.S-w5 {
+    width: 63px;
+    height: 48px;
+    background-position: -150px -207px;
+}
+
+.S-w6 {
+    width: 47px;
+    height: 61px;
+    background-position: -223px -207px;
+}
+
+.S-w7 {
+    width: 60px;
+    height: 61px;
+    background-position: -283px -5px;
+}
+
+.S-w8 {
+    width: 63px;
+    height: 48px;
+    background-position: -286px -76px;
+}
+
+.S-wComunityEdition {
+    width: 14px;
+    height: 13px;
+    background-position: -284px -134px;
+}
+
+.S-wProcess {
+    width: 17px;
+    height: 16px;
+    background-position: -308px -134px;
+}
+
+.S-wSingUp {
+    width: 15px;
+    height: 14px;
+    background-position: -283px -160px;
+}
+
+
+<i class="S S-r0"></i>
+<i class="S S-r1"></i>
+<i class="S S-r2"></i>
+<i class="S S-r3"></i>
+<i class="S S-r4"></i>
+<i class="S S-r5"></i>
+<i class="S S-r6"></i>
+<i class="S S-r7"></i>
+<i class="S S-r8"></i>
+<i class="S S-rComunityEdition"></i>
+<i class="S S-rProcess"></i>
+<i class="S S-rSingUp"></i>
+<i class="S S-w0"></i>
+<i class="S S-w1"></i>
+<i class="S S-w2"></i>
+<i class="S S-w3"></i>
+<i class="S S-w4"></i>
+<i class="S S-w5"></i>
+<i class="S S-w6"></i>
+<i class="S S-w7"></i>
+<i class="S S-w8"></i>
+<i class="S S-wComunityEdition"></i>
+<i class="S S-wProcess"></i>
+<i class="S S-wSingUp"></i>
+
